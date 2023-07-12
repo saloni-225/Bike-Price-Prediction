@@ -6,6 +6,6 @@ The bike price prediction project combines technology front-end development usin
   <img src="https://github.com/saloni-225/Bike-Price-Prediction/assets/81464325/7739c859-bc94-43f3-b521-d5a1c1c01bf4" alt="Image Description" width="300" height="200">
   <img src=https://github.com/saloni-225/Bike-Price-Prediction/assets/81464325/2989a11b-1d56-43a8-bbbf-2978f88e2f74" alt="Image Description" width="300" height="200">
 
-<img src="https://github.com/saloni-225/Bike-Price-Prediction/assets/81464325/bd550855-89ce-4e33-ab2c-3cea0447e68f" alt="Image Description" width="400" height="400">
+<img src="https://github.com/saloni-225/Bike-Price-Prediction/assets/81464325/bd550855-89ce-4e33-ab2c-3cea0447e68f" alt="Image Description" width="400" height="300">
 
 
